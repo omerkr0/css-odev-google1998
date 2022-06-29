@@ -1,0 +1,65 @@
+body{
+    display: block;
+    margin: 8px;
+}
+
+.logo-box{
+   text-align: center;
+}
+
+.logo{
+    width: 351;
+    height: 113;  
+}
+.table{
+    border: 0;
+    width: 100%;
+}
+.grey-box{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+ul {
+    list-style:none;
+}
+
+.blue-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+
+.kutu1 {
+    width: 38%;
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 1px;
+   
+}
+.kutu2 {
+    text-align:center;
+    background-color: rgb(112, 204, 194);
+    font-size: small;  
+    width: 22%;
+    margin-top: 2px;
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.kutu3 {
+    background-color: rgb(98, 179, 170);
+    text-align:center;
+    font-size: small;
+    align-items: flex-end;
+    width: 40%;
+    margin-top: 2px;
+    margin-left: 1px;
+}
+
+footer {
+    text-align: center;
+
+}
